@@ -1,0 +1,13 @@
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.csproj.AssemblyReference.cache
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice_Bill.Form1.resources
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice_Bill.Properties.Resources.resources
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.csproj.GenerateResource.cache
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.csproj.CoreCompileInputs.cache
+D:\Amadis_training\C#\Innovoice Bill\bin\Debug\Innovoice Bill.exe.config
+D:\Amadis_training\C#\Innovoice Bill\bin\Debug\Innovoice Bill.exe
+D:\Amadis_training\C#\Innovoice Bill\bin\Debug\Innovoice Bill.pdb
+D:\Amadis_training\C#\Innovoice Bill\bin\Debug\iTextSharp.dll
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoic.4E514BBC.Up2Date
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.exe
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.pdb
+D:\Amadis_training\C#\Innovoice Bill\obj\Debug\Innovoice Bill.exe.config

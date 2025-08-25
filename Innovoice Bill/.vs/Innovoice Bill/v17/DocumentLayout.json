@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amadis_training\\C#\\Innovoice Bill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|d:\\amadis_training\\c#\\innovoice bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|d:\\amadis_training\\c#\\innovoice bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|d:\\amadis_training\\c#\\innovoice bill\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|d:\\amadis_training\\c#\\innovoice bill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|d:\\amadis_training\\c#\\innovoice bill\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|D:\\Amadis_training\\C#\\Innovoice Bill\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBA79FC-9370-418B-B381-CE7031CCF6BF}|Innovoice Bill.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-22T10:54:28.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:54:25.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:52:37.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAYwC8BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:40:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Classes\\Product.cs",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Classes\\Product.cs",
+              "RelativeToolTip": "Classes\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:36:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Amadis_training\\C#\\Innovoice Bill\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:09:01.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
